@@ -1,6 +1,6 @@
 # Daily_complete
-#Ryan Groskopf 
-#Commit 1st
+# Ryan Groskopf 
+# Commit 1st
 
 Submission Feedback
 Overall Feedback
