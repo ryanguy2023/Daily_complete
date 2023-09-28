@@ -4,17 +4,16 @@
 
 Submission Feedback
 Overall Feedback
-6/8
 
-Use of function 2/2
+Use of function 
 
-Correct Gui 0/1
+Correct Gui 
 
-Comment Header 2/2
+Comment Header 
 
-Code comments 1/1
+Code comments 
 
-Correct results 1/2 - your RLC does not give correct results -
+Correct results 
 
 my example H = 0.47, F = 0.00001, R = 2000, gave these answers:
 
